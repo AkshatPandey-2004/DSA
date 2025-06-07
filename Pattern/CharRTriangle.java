@@ -13,5 +13,6 @@ public class CharRTriangle{
             }
             System.out.println();
         }
+        sc.close();
     }
 }

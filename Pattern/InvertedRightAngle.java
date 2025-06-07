@@ -12,5 +12,6 @@ public class InvertedRightAngle{
             }
             System.out.println();
         }
+        sc.close();
         }
 }

@@ -10,5 +10,6 @@ public class RightAngle{
             }
             System.out.println();
         }
+        sc.close();
     }
 }

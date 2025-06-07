@@ -10,5 +10,6 @@ public class NumberRTriangle{
             }
             System.out.println();
         }
+        sc.close();
     }
 }
