@@ -2,9 +2,9 @@ import java.util.Scanner;
 
 public class BubbleSort{
     public static int[] bubblesort(int arr[]){
-        int swap=0;
+        
         for(int i=0;i<arr.length-1;i++){
-            
+            int swap=0;
             for(int j=i+1;j<arr.length;j++){
                 if(arr[i]>arr[j]){
                     int temp=arr[i];
@@ -14,10 +14,10 @@ public class BubbleSort{
                 }
             }
             //break if the array is already is sorted
-            if(swap==0){
-                System.out.println("Already Sorted");
-                break;
-            }
+            // if(swap==0){
+            //     System.out.println("Already Sorted");
+            //     break;
+            // }
         }
         return arr;
     }
