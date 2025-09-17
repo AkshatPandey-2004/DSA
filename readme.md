@@ -1,2 +1,2 @@
-ghrhuihGGfukmmkmkfigkokoDrjkk# All Topics of DSA Covered in JAVA  
+# All Topics of DSA Covered in JAVA  
 # BY:- Akshat Pandey
